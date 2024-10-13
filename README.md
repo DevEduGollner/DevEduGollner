@@ -61,8 +61,3 @@
 <p align="left">Sempre tive contato com a tecnologia desde criança, mas pra ser sincero, quando pude perceber que eu mesmo poderia criar aplicações, isso me animou muito, e esse é o motivo pelo qual sigo nessa área, a oportunidade de criar e inovar me inspira a todo dia dar o meu melhor desenvolvendo aplicações que solucionem problemas do dia a dia.<br><br>Se eu pudesse me definir em 3 palavras seria: Criativo, Animado, Dedicado.</p>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevEduGollner&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevEduGollner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
